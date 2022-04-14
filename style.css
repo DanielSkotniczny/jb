@@ -1,0 +1,27 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	height: 100vh;
+	overflow: hidden;
+	color: #fff;
+	background-color: rgb(17, 27, 58);
+}
+
+.top {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+p {
+	font-size: 30rem;
+}
